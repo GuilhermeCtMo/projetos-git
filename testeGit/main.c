@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-    printf("Hello World git!\n");
+    printf("tentando gerar conflito!\n");
     return 0;
 }
